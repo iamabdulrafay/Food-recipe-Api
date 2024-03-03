@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Compiled files
+dist/
+
+# User-specific files
+.idea/
+.vscode/
+*.sublime-*
+
+# Cache and build directories
+.cache/
+.build/
+
+# Ignore server data file (assuming db.json is used)
+db.json
